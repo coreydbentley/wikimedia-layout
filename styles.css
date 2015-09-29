@@ -1,1 +1,69 @@
+body {
+	font-family: Arial, sans-serif;
+	line-height: 1.8em;
+
+	
+}
+
+span {
+	font-weight: 700;
+}
+
+#container {
+	font-size: 1.23em;
+	margin: 30px auto;
+	width: 80%;
+}
+
+#description {
+	margin: 0 auto;
+	width: 88%;
+}
+
+#justify {
+	text-align: justify;
+}
+
+#welcome {
+	margin: 0 auto;
+	width: 88%;
+	text-align: right;
+}
+
+#content {
+	margin: 2.5em 0 0 0;
+	width: 100%;
+	clear: both;
+}
+
+#content div {
+	width: 25%;
+	height: 170px;
+	float: left;
+	text-align: center;
+}
+
+#content div img {
+	width: 135px;
+	height: auto;
+}
+
+
+hr {
+	display: block;
+}
+
+a {
+	text-decoration: none;
+}
+
+#footer {
+	display: block;
+	text-align: center;
+	font-size: .65em;
+}
+
+#footer a {
+	margin: 0 15px;
+}
 
